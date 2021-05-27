@@ -31,11 +31,11 @@
       
       public static var TEXTE_TITRE_FENETRE:TextFormat = new TextFormat("Verdana",16,0xF2DCAA,true,false);
 	  
-	  public static var TEXTE_TITRE_FENETRE_10:TextFormat = new TextFormat("Masque",10,0xF2DCAA,true,false);
+      public static var TEXTE_TITRE_FENETRE_10:TextFormat = new TextFormat("Masque",10,0xF2DCAA,true,false);
 	  
-	  public static var TEXTE_TITRE_FENETRE_13:TextFormat = new TextFormat("Masque",13,0xF2DCAA,true,false);
+      public static var TEXTE_TITRE_FENETRE_13:TextFormat = new TextFormat("Masque",13,0xF2DCAA,true,false);
 	  
-	  public static var TEXTE_TITRE_FENETRE_EFFECT:DropShadowFilter = new DropShadowFilter(0,0,0x281431,100.0,5,5);
+      public static var TEXTE_TITRE_FENETRE_EFFECT:DropShadowFilter = new DropShadowFilter(0,0,0x281431,100.0,5,5);
       
       public static var COULEUR_TEXTE_SAISIE:int = 4513245;
       
